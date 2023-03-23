@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    
+}
+h1{
+    text-align: center;
+    margin-top: 50px;   
+    color: white;
+    font-size: 35px;                        
+}
+.container{
+ display: flex;
+ padding: 15px ;
+ list-style: none;
+ font-size: 30px;
+ margin-top: 70px;
+}
+.container li a{
+    display: flex;
+    text-decoration: none;
+    color: white;
+}
+.first img{
+    width: 480px;
+    border: 4px solid orange;
+}
+.second img{
+ width: 480px;
+ border: 4px solid orange;
+}
+.third img{
+   width: 480px;
+   border: 4px solid orange;
+}
+.container li a:hover{
+    color: orange;
+}

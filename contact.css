@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+background: url(images/back10.webp) no-repeat center center/cover;
+height: 500px;
+color: white;
+padding: 40px;
+font-family: 'Kdam Thmor Pro', sans-serif;
+
+}
+.back a{
+    font-size: 20px;
+    padding: 7px;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    border: 2px solid white;
+  }
+  .back a:hover{
+    background-color: white;
+    color: black;
+  }
+
+.row-body{
+    padding: 50px;
+    font-size: 30px;
+}
+.row-body li{
+    padding: 20px;
+}
+.btn-submit{
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    width: 150px;
+}
+.btn-submit:hover{
+    background-color: white;
+    color: black;
+}
+.lower{
+    padding: 29px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    background-color: gray;
+    height: 140px;
+}

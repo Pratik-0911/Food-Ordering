@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+   
+}
+.back a{
+    margin-left: -25px;
+    font-size: 18px;
+    padding: 5px;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    border: 2px solid white;
+  }
+  .back a:hover{
+    background-color: white;
+    color: black;
+  }
+.container{
+    background: url(images/back14.jpg) no-repeat center center/cover;
+    opacity: 1;
+    height: 550px;
+    color: white;
+    padding: 40px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-size: 20px;
+}
+.first{
+    margin-top: 23px;
+}
+.second{
+    margin-top: 50px;
+}
+.lower{
+    background-color: gray;
+    height: 105px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 43px;
+   
+
+}
